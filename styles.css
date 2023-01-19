@@ -1,18 +1,8 @@
 
 /* Your CSS Code here. */
 .list-style {
+	list-style-type:none;
 	display:flex;
-	align-item:center;
 	justify-content:space-evenly;
 }
-h2{
-	text-align:center;
-}
- li{
-	list-style-type:none;
-}
 
-li img{
-	display:flex;
-	justify-content:space-between;
-}
