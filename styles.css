@@ -5,6 +5,9 @@
 	align-item:center;
 	justify-content:space-evenly;
 }
+h2{
+	text-align:center;
+}
  li{
 	list-style-type:none;
 }
