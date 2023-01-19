@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+.list-style {
+	display:flex;
+	align-item:center;
+	justify-content:space-evenly;
+}
+ li{
+	list-style-type:none;
+}
+
+li img{
+	display:flex;
+	justify-content:space-between
+}
